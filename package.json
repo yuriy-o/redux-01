@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "homepage": "https://yuriy-o.github.io/redux-theory/",
   "main": "src/index.js",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
