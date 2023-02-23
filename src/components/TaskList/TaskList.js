@@ -19,7 +19,7 @@ const getVisibleTasks = (tasks, statusFilter) => {
   }
 };
 
-console.log("getTasks", getTasks);
+// console.log("getTasks", getTasks);
 
 export const TaskList = () => {
   // 3. Отримуємо масив завдань із стану Redux
