@@ -8,6 +8,7 @@ const tasksInitialState = [
   { id: 3, text: "Перемога з нами", completed: true },
   { id: 4, text: "Повернути Крим", completed: false },
   { id: 5, text: "Працюючі закони", completed: false },
+  { id: 5, text: "Розмовляти українською", completed: true },
 ];
 
 // Відповідає лише за оновлення властивості tasks
