@@ -1,10 +1,12 @@
 {
-  "name": "goit-react-textbook-lesson-11-example-app",
+  "name": "redux-01",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@redux-devtools/extension": "^3.2.5",
+    "@reduxjs/toolkit": "^1.9.3",
     "clsx": "^1.2.1",
     "nanoid": "^4.0.1",
     "react": "^18.2.0",
